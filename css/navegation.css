@@ -1,0 +1,32 @@
+/* Style sheet navegation */
+li .big8{list-style-type:none;width:125px;float:right;margin-top:10px;margin-bottom:10px;margin-left:0;padding-top:2px;padding-right:35px;padding-bottom:4px;text-align:right;background:url("tl_files/imagenes/layout/ico-campusero.png") right center no-repeat;font-weight:bold;font-size:12px;color:#09F;line-height:14px;list-style-type:none;}
+li .big7{width:125px;float:right;margin-top:10px;margin-bottom:10px;margin-left:0;padding-top:2px;padding-right:25px;padding-bottom:4px;text-align:right;font-family:arial, helvetica, sans-serif;;font-weight:bold;text-decoration:none;font-size:12px;color:#666666;line-height:14px;list-style-type:none;background:url("tl_files/imagenes/layout/ico_agenda.gif") right center no-repeat;}
+li .big6{width:125px;float:right;margin-top:10px;margin-bottom:10px;margin-left:0;padding-top:2px;padding-right:25px;padding-bottom:4px;text-align:right;background:url("tl_files/imagenes/layout/ico_sb.jpg") right center no-repeat;font-family:arial, helvetica, sans-serif;font-weight:bold;font-size:12px;color:#666666;line-height:14px;list-style-type:none;}
+li .presse{width:125px;float:right;margin-top:10;margin-left:0;padding-top:2px;padding-right:25px;padding-bottom:4px;text-align:right;text-decoration:none;font-size:12px;color:#666666;line-height:14px;list-style-type:none;background:url(tl_files/images/layout/Flag-DE.png) right center no-repeat;}
+li .press{width:125px;float:right;margin-bottom:10px;margin-left:0;padding-top:2px;padding-right:25px;padding-bottom:4px;text-align:right;text-decoration:none;font-size:12px;color:#666666;line-height:14px;list-style-type:none;background:url(tl_files/images/layout/Flag-EN.png) right center no-repeat;}
+.up{margin-top:18px;vertical-align:top;}
+ol,ul,li,form,fieldset{list-style-type:none;}
+.navbox-first{margin-top:0;}
+.navbox ul{position:relative;padding:0;text-align:right;list-style-type:none;list-style-image:url("none");list-style-position: outside;}
+.normal{margin-left:auto;text-align:right;vertical-align:top;font-family:Arial;font-weight:normal;font-size:12px;color:#666666;list-style-type:none;}
+.normal2{margin-top:10px;text-align:right;vertical-align:top;font-family:Arial;font-weight:normal;font-size:12px;color:#666666;list-style-type:none;}
+.normal3{margin-top:10px;text-align:right;vertical-align:top;font-family:Arial;font-weight:normal;font-size:12px;color:#666666;list-style-type:none;}
+.normal5{margin-top:10px;text-align:right;vertical-align:top;font-family:Arial;font-weight:bold;font-size:12px;color:#666666;list-style-type:none;}
+.first{margin-left:auto;text-align:right;font-family:Arial, helvetica, sans-serif;font-weight:bold;font-size:12px;color:#0099FF;white-space:nowrap;list-style-type:none;}
+.normal6{margin-bottom:10px;margin-left:auto;text-align:right;vertical-align:top;font-family:Arial;font-weight:normal;font-size:12px;color:#666666;list-style-type:none;}
+.normal .first{margin-left:auto;text-align:right;vertical-align:top;font-family:Arial;font-weight:normal;font-size:12px;color:#666666;list-style-type:none;}
+.normal4{width:145px;display:block;margin-top:10px;padding:5px 0 0;text-align:right;vertical-align:top;font-weight:normal;font-size:12px;color:#666666;list-style-type:none;}
+.big1{margin-top:10px;text-align:right;vertical-align:top;font-family:Arial, helvetica, sans-serif;font-weight:bold;font-size:12px;color:#0099ff;list-style-type:none;}
+.big1 .first{width:135px;display:block;margin:10px 0 0 15px;padding:0 0 5px 10px;text-align:right;vertical-align:top;border-top:0px solid #cccccc;border-right:0px solid #cccccc;border-bottom:1px solid #cccccc;border-left:0px solid #cccccc;font-weight:bold;font-size:12px;color:#0099ff;list-style-type:none;}
+.big2{text-align:right;vertical-align:top;font-weight:bold;font-size:12px;color:#0099FF;white-space:nowrap;list-style-type:none;}
+#left-column div.mod_navigation ul{padding:0;list-style-type:none;}
+#left-column div.mod_navigation li{list-style-type:none;}
+div.mod_navigation a{text-decoration:none;}
+div.mod_navigationMain a:link{}
+div.mod_navigation a:hover{color:#0099FF;}
+div.mod_navigation a:visited{text-decoration:none;}
+div.mod_navigation li.active p.active{margin:0;padding:0;}
+.roll:link{text-decoration:none;color:#999999;}
+.roll:visited{text-decoration:none;color:#999999;}
+.roll:hover{text-decoration:none;color:#0099FF;}
+.invisible{display:none;font-size:1px;color:#fff;}

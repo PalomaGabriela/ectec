@@ -1,0 +1,43 @@
+/* Style sheet right-column */
+div#contador-mundo{width:146px;height:55px;margin-bottom:15px;padding:30px 0 0;text-align:center;background:url("tl_files/imagenes/layout/backcoutcampus.png") left top repeat;font-family:Arial, helvetica, sans-serif;font-weight:bold;text-decoration:none;font-size:40px;color:#f9deee;line-height:40px;letter-spacing:-1px;text-shadow: -1px -1px 1px #912262;}
+a#linkregistro{width:146px;height:27px;display:block;margin-bottom:15px;text-align:center;background:url("tl_files/imagenes/layout/img_cadastrese.png") left top no-repeat;font-family:Arial, helvetica, sans-serif;font-weight:bold;text-decoration:none;font-size:14px;color:#fff;text-indent:-9999px;}
+div#boxlogin{width:146px;height:110px;margin-top:10px;}
+div#boxlogout{width:146px;height:110px;margin-top:10px;border-bottom:999 1px #dotted;}
+div.tit-boxder{width:146px;height:28px;text-align:center;font-weight:normal;font-size:12px;color:#999;line-height:22px;background:url(tl_files/imagenes/layout/img_tit_ingreso.gif) no-repeat;letter-spacing:-1px;}
+div.tit-boxder span{font-weight:bold;letter-spacing:0;}
+#login-cp .tit-boxder{display:none;margin-top:10px;text-align:center;}
+div#boxlogin form{margin:0;padding:0;}
+div#boxlogin form .boxform{width:146px;height:24px;display:block;padding-top:3px;text-align:left;border:0;font-size:12px;color:#999;background:url(tl_files/imagenes/layout/img_formbox.gif) no-repeat;}
+div#boxlogout form .textologin{margin-top:10px;padding-left:10px;text-align:left;font-weight:normal;font-size:12px;color:#999;}
+div#boxlogout form .textologin a.linklogin{margin-top:10px;padding-left:10px;text-align:left;font-weight:bold;text-decoration:none;color:#0099FF;background:url(tl_files/imagenes/layout/arrow_b.gif) left no-repeat;}
+div#boxlogout form .textologin a:hover.linklogin{margin-top:10px;padding-left:10px;text-align:left;font-weight:bold;text-decoration:underline;color:#9999;background:url(tl_files/imagenes/layout/arrow_g.gif) left no-repeat;}
+div#boxlogin form .email{margin-top:10px;font-weight:bold;font-size:10px;color:#999;}
+div#boxlogin form .password{margin-top:10px;font-weight:bold;font-size:10px;color:#999;}
+div#boxlogin #boton-login{width:146px;height:27px;float:left;clear:both;display:block;margin:10px 0 0;text-align:left;background-image:url("tl_files/imagenes/layout/buttonlogin.png");background-repeat:no-repeat;border:0px;font-family:Arial, helvetica, sans-serif;font-weight:bold;font-size:16px;color:#fff;text-shadow: -1px -1px 1px #036aae;}
+div#boxlogout #boton-login{margin-top:8px;margin-bottom:10px;padding:2px;text-align:center;background-color:#069;border-top:0px solid #999;border-right:0px solid #999;border-bottom:2px solid #999;border-left:0px solid #999;font-weight:bold;text-decoration:none;color:#fff;}
+a.recover{width:136px;height:20px;float:left;clear:both;margin-top:10px;margin-bottom:10px;padding-left:10px;font-weight:normal;text-decoration:none;font-size:11px;color:#0099FF;}
+#titcontador-local{width:146px;height:19px;display:block;margin-top:10px;margin-bottom:10px;background-image:url("tl_files/imagenes/layout/head_cpeuaforo.gif");}
+#titcontador-local-previo{width:146px;border-bottom:999 dotted #1px;}
+.w146total{width:146px;height:50px;margin:0;padding:0;text-align:center;border-bottom:999 dotted #1px;font-size:42px;color:#0099FF;}
+.w146total span{display:none;margin:0;padding:0;font-size:12px;color:#0099FF;letter-spacing:-1px;}
+.clear{clear:both;}
+div.tx-puestos{width:90px;height:16px;float:left;margin-bottom:6px;font-weight:normal;text-decoration:none;font-size:12px;color:#999;letter-spacing:-1px;}
+div.tx-puestos span{margin-bottom:10px;font-weight:bold;font-size:16px;color:#0099FF;letter-spacing:0;}
+div.nu-puestos{width:53px;height:16px;float:left;margin-bottom:2px;padding-right:3px;text-align:right;font-weight:bold;text-decoration:none;font-size:14px;color:#0099FF;letter-spacing:0;}
+div.nu-puestos span{margin-bottom:10px;font-weight:bold;font-size:16px;color:#0099FF;letter-spacing:0;}
+#aforo{width:146px;height:120px;float:left;clear:both;margin:0;background-image:url("tl_files/imagenes/layout/aforo_cpercife_2014.png");}
+#entradas-vendidas{padding:35px 0 0;background:url("tl_files/imagenes/layout/aforo_cpercife_20142.png") left top no-repeat;width:146px;height:125px;display:block;font-family: Arial, Helvetica, sans-serif;font-size:40px;font-weight:bold;letter-spacing:-1px;color:#FFF;text-shadow:1px -2px #0088de;text-align:center;float:left;margin: 0  0 10px 0}
+#entradas-soldout{padding-right:0;padding-bottom:0;padding-left:0;background:url("tl_files/imagenes/layout/aforo-soldout.png") left top no-repeat;width:146px;height:120px;display:block;margin: 0  0 10px 0}
+#redes{width:146px;height:200px;float:left;clear:both;margin:10px 0;padding-top:27px;text-align:left;background-image:url("tl_files/imagenes/layout/back_siga-nos.png");font-family:Arial, helvetica, sans-serif;font-weight:normal;font-size:12px;color:#999;line-height:12px;}
+#redes a{width:120px;height:15px;float:left;display:block;margin:5px 0 2px 15px;padding:2px 0 0 25px;text-decoration:none;font-size:12px;color:#09f;background-position: 0 -17px;}
+#redes a:hover{text-decoration:underline;}
+a#facebooknew{background:url(tl_files/imagenes/layout/facebook-ico.gif) left bottom no-repeat;}
+a#twitternew{background:url(tl_files/imagenes/layout/twitter-ico.gif) left bottom no-repeat;}
+a#googlenew{background:url(tl_files/imagenes/layout/google-ico.gif) left bottom no-repeat;}
+a#pinterestnew{background:url(tl_files/imagenes/layout/pinterest-ico.gif) left bottom no-repeat;}
+a#campuseronew{background:url(tl_files/imagenes/layout/campusero-ico.gif) left bottom no-repeat;}
+a#youtubenew{background:url(tl_files/imagenes/layout/youtube-ico.jpg) left bottom no-repeat;background-position: 0 0;}
+a#flickrnew{background:url(tl_files/imagenes/layout/flickr-ico.gif) left bottom no-repeat;}
+a#blognew{background:url(tl_files/imagenes/layout/blog-ico.gif) left bottom no-repeat;}
+a#instagramnew{background:url(tl_files/imagenes/layout/instagram-ico.gif) left bottom no-repeat;}
+

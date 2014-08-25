@@ -17,13 +17,13 @@ ol,ul,li,form,fieldset{list-style-type:none;}
 .normal .first{margin-left:auto;text-align:right;vertical-align:top;font-family:Arial;font-weight:normal;font-size:12px;color:#666666;list-style-type:none;}
 .normal4{width:145px;display:block;margin-top:10px;padding:5px 0 0;text-align:right;vertical-align:top;font-weight:normal;font-size:12px;color:#666666;list-style-type:none;}
 .big1{margin-top:10px;text-align:right;vertical-align:top;font-family:Arial, helvetica, sans-serif;font-weight:bold;font-size:12px;color:#0099ff;list-style-type:none;}
-.big1 .first{width:135px;display:block;margin:10px 0 0 15px;padding:0 0 5px 10px;text-align:right;vertical-align:top;border-top:0px solid #cccccc;border-right:0px solid #cccccc;border-bottom:1px solid #cccccc;border-left:0px solid #cccccc;font-weight:bold;font-size:12px;color:#0099ff;list-style-type:none;}
+.big1 .first{width:135px;display:block;margin:10px 0 0 15px;padding:0 0 5px 10px;text-align:right;vertical-align:top;border-top:0px solid #cccccc;border-right:0px solid #cccccc;border-bottom:1px solid #cccccc;border-left:0px solid #cccccc;font-weight:bold;font-size:12px;color:#EC964E;list-style-type:none;}
 .big2{text-align:right;vertical-align:top;font-weight:bold;font-size:12px;color:#0099FF;white-space:nowrap;list-style-type:none;}
 #left-column div.mod_navigation ul{padding:0;list-style-type:none;}
 #left-column div.mod_navigation li{list-style-type:none;}
 div.mod_navigation a{text-decoration:none;}
 div.mod_navigationMain a:link{}
-div.mod_navigation a:hover{color:#0099FF;}
+div.mod_navigation a:hover{color:#EC964E;}
 div.mod_navigation a:visited{text-decoration:none;}
 div.mod_navigation li.active p.active{margin:0;padding:0;}
 .roll:link{text-decoration:none;color:#999999;}

@@ -1,5 +1,6 @@
 /* Style sheet header */
 #logo{width:170px;height:60px;float:left;display:block;margin:30px 0 25px 20px;background:url("../imgs/logo.jpg") left top no-repeat;text-indent:-9999px;}
+#logo1{width:900px;height:250px;float:center;display:block;background:url("../imgs/logo1.jpg") left top no-repeat;text-indent:-9999px;-webkit-border-bottom-right-radius: 8px;-webkit-border-bottom-left-radius: 8px;-moz-border-radius-bottomright: 8px;-moz-border-radius-bottomleft: 8px;border-bottom-right-radius: 8px;border-bottom-left-radius: 8px;}
 #logotelefonica{width:150px;height:60px;float:left;display:block;margin:30px 0 25px 20px;background:url("../imgs/logo.jpg") left top no-repeat;text-indent:-9999px;}
 #logoprefeitura{width:150px;height:60px;float:left;display:block;margin:30px 0 25px 20px;background:url("../imgs/logo.jpg") left top no-repeat;text-indent:-9999px;}
 #logoestado{width:150px;height:60px;float:left;display:block;margin:30px 0 25px 20px;background:url("../imgs/logo.jpg") left top no-repeat;text-indent:-9999px;}

@@ -1,0 +1,79 @@
+body{font-family:arial,helvetica,verdana,sans-serif;font-size:16px;background-color:#009BFF;color:#666;margin:0;}
+img{border:0}
+#main-wrapper{width:980px;margin:0 auto;}
+#left-tab{float:left;position:relative;top:100px;left:5px}
+#right-tab{float:left;position:relative;top:100px;left:-5px}
+#header{padding:5px}
+
+#layout-wrapper{width:910px;min-height:700px;padding:0px 5px;margin:0 auto;float:left;background:#ffffff}
+#main-content{width:870px;float:left; padding:15px}
+#main-onecolumn{width:890px; background-color: #ffffff; padding:10px 10px 10px 40px; min-height:700px}
+
+#footer{clear:both}
+.clear{clear:both}
+.txt { width:150px; font-family:Arial, Helvetica, sans-serif; font-size:16px; color:#666666; text-align:left}
+h1 { font-family:Arial, Helvetica, sans-serif; font-size:32px; font-weight:bold; color:#0099FF; margin:0; padding:0}
+h2 { font-family:Arial, Helvetica, sans-serif; font-size:16px; font-weight:bold; color:#0099FF; margin:0 0 5px 0; padding:3px; border-bottom:#CCCCCC solid 1px }
+h3 { font-family:Arial, Helvetica, sans-serif; font-size:18px; font-weight:bold; color:#999999;  margin:0 0 20px 0; padding:3px; border-bottom:#CCCCCC solid 2px}
+h4 { font-family:Arial, Helvetica, sans-serif; font-size:16px; font-weight:bold; color:#666666; margin:0 0 5px 0; padding:3px;  }
+h5 { font-family:Arial, Helvetica, sans-serif; font-size:16px; font-weight:bold; color:#999999; margin:0 0 5px 0; padding:3px; border-bottom:#CCCCCC solid 1px }
+h6 { font-family:Arial, Helvetica, sans-serif; font-size:16px; font-weight:normal; color:#999999; margin:0 0 5px 0; padding:3px; }
+
+.blue { color:#0099FF}
+
+.buttons{ font-family:Arial, Helvetica, sans-serif; color:#FFFFFF; font-size:14px; padding:0px ; background-image:url(http://www.campus-party.org/webapp/images/back_boton.jpg); background-repeat:repeat-x; background-color:#0099FF; border:#006699 1px solid ; height:22px; text-decoration:none; text-align:center; vertical-align:middle}
+
+#boxiframe { width:478px; background-color:#FFFFFF} 
+
+/* MESSAGES AND ERRORS */
+
+.message {
+    background: #f3f8fc url(../images/skin/information.png) 8px 50% no-repeat;
+    border: 1px solid #b2d1ff;
+    color: #006dba;
+    margin: 10px 0 5px 0;
+    padding: 5px 5px 5px 30px
+}
+
+div.errors {
+    background: #fff3f3;
+    border: 1px solid red;
+    color: #cc0000;
+    margin: 10px 0 5px 0;
+    padding: 5px 0 5px 0;
+}
+div.errors ul {
+    list-style: none;
+    padding: 0;	
+}
+div.errors li {
+	background: url(../images/skin/exclamation.png) 8px 0% no-repeat;
+    line-height: 16px;
+    padding-left: 30px;
+}
+
+td.errors select {
+    border: 1px solid red;
+}
+td.errors input {
+    border: 1px solid red;
+}
+
+/* TABLES */
+
+
+.buttonsform{ font-family:Arial, Helvetica, sans-serif; color:#FFFFFF; font-size:14px; padding:5px ; background-color:#0099FF; border:#006699 1px solid ; height:22px; text-decoration:none; text-align:center; vertical-align:middle}
+
+.drop {
+    background: #f3f8fc;
+    border: 1px solid #b2d1ff;
+    color: #006dba;
+    margin: 10px 0 5px 0;
+    padding: 5px 5px 5px 30px
+}
+.buttonsover{ font-family:Arial, Helvetica, sans-serif; color:#FFFFFF; font-size:14px; padding:5px ; background-color: 
+#CCCC00; border: #666600 1px solid ; height:22px; text-decoration:none; text-align:center; vertical-align:middle}	
+
+.buttonsform2{ font-family:Arial, Helvetica, sans-serif; color:#FFFFFF; font-size:14px; padding:0px ;  background-color:#0099FF; border:#006699 1px solid ; height:22px; text-decoration:none; text-align:center; vertical-align:middle}
+.migajasazul {color:#0099FF; font-size:12px; text-align:left}
+.migajagris { color:#999999; font-size:12px; text-align:left}
